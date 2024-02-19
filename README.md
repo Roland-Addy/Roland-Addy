@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Roland Antieaye Addy Tetteh
 - 👀 I’m interested in Data Science and Data Analysis
-- 🌱 I’m a certified IBM Data Analyst and a Data Science Diploma Candidate
+- 🌱 I’m a certified IBM Data Analyst and a Data Scientist
 - 💞️ I’m looking to collaborate on Data Science Projects.
 - 📫 You can reach me at https://linkedin.com/in/rolandtetteh
 
